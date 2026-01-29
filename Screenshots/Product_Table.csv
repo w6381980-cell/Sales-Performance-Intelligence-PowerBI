@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Category,Cost_Price
+1001,Laptop,Electronics,16295
+1002,Mobile,Electronics,1360
+1003,Tablet,Electronics,38658
+1004,Headphones,Electronics,11784
+1005,Chair,Furniture,6765
+1006,Table,Furniture,17350
+1007,Sofa,Furniture,37694
+1008,Bed,Furniture,22462
+1009,Pen,Office Supplies,16523
+1010,Notebook,Office Supplies,2185
+1011,Printer,Office Supplies,1269
+1012,Scanner,Office Supplies,2933

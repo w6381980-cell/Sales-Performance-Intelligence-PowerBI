@@ -1,0 +1,301 @@
+Customer_ID,Customer_Segment,State
+2001,Consumer,Maharashtra
+2002,Corporate,Tamil Nadu
+2003,Consumer,Maharashtra
+2004,Small Business,Karnataka
+2005,Small Business,Delhi
+2006,Small Business,Karnataka
+2007,Small Business,Gujarat
+2008,Consumer,Karnataka
+2009,Consumer,Karnataka
+2010,Small Business,Tamil Nadu
+2011,Consumer,Delhi
+2012,Consumer,Gujarat
+2013,Corporate,Delhi
+2014,Corporate,Maharashtra
+2015,Corporate,Tamil Nadu
+2016,Corporate,Gujarat
+2017,Small Business,Gujarat
+2018,Small Business,Gujarat
+2019,Consumer,Karnataka
+2020,Corporate,Maharashtra
+2021,Corporate,Gujarat
+2022,Corporate,Delhi
+2023,Corporate,Tamil Nadu
+2024,Small Business,Delhi
+2025,Corporate,Gujarat
+2026,Corporate,Delhi
+2027,Corporate,Gujarat
+2028,Corporate,Gujarat
+2029,Consumer,Tamil Nadu
+2030,Consumer,Delhi
+2031,Small Business,Tamil Nadu
+2032,Corporate,Maharashtra
+2033,Consumer,Maharashtra
+2034,Consumer,Tamil Nadu
+2035,Consumer,Maharashtra
+2036,Small Business,Maharashtra
+2037,Consumer,Gujarat
+2038,Small Business,Karnataka
+2039,Small Business,Maharashtra
+2040,Small Business,Karnataka
+2041,Consumer,Karnataka
+2042,Consumer,Delhi
+2043,Small Business,Delhi
+2044,Consumer,Gujarat
+2045,Small Business,Maharashtra
+2046,Corporate,Maharashtra
+2047,Small Business,Tamil Nadu
+2048,Small Business,Gujarat
+2049,Corporate,Karnataka
+2050,Small Business,Maharashtra
+2051,Small Business,Tamil Nadu
+2052,Small Business,Karnataka
+2053,Consumer,Tamil Nadu
+2054,Corporate,Karnataka
+2055,Consumer,Delhi
+2056,Corporate,Gujarat
+2057,Consumer,Karnataka
+2058,Small Business,Maharashtra
+2059,Consumer,Gujarat
+2060,Corporate,Tamil Nadu
+2061,Small Business,Tamil Nadu
+2062,Small Business,Karnataka
+2063,Consumer,Gujarat
+2064,Consumer,Karnataka
+2065,Small Business,Gujarat
+2066,Corporate,Delhi
+2067,Consumer,Maharashtra
+2068,Consumer,Gujarat
+2069,Corporate,Karnataka
+2070,Corporate,Gujarat
+2071,Consumer,Maharashtra
+2072,Consumer,Maharashtra
+2073,Small Business,Maharashtra
+2074,Consumer,Maharashtra
+2075,Small Business,Karnataka
+2076,Consumer,Tamil Nadu
+2077,Consumer,Karnataka
+2078,Corporate,Gujarat
+2079,Small Business,Karnataka
+2080,Corporate,Maharashtra
+2081,Consumer,Maharashtra
+2082,Corporate,Gujarat
+2083,Corporate,Delhi
+2084,Small Business,Maharashtra
+2085,Consumer,Maharashtra
+2086,Consumer,Karnataka
+2087,Consumer,Delhi
+2088,Corporate,Gujarat
+2089,Corporate,Tamil Nadu
+2090,Consumer,Maharashtra
+2091,Small Business,Delhi
+2092,Consumer,Gujarat
+2093,Corporate,Gujarat
+2094,Small Business,Karnataka
+2095,Small Business,Maharashtra
+2096,Small Business,Tamil Nadu
+2097,Corporate,Karnataka
+2098,Small Business,Maharashtra
+2099,Consumer,Gujarat
+2100,Small Business,Tamil Nadu
+2101,Small Business,Gujarat
+2102,Small Business,Gujarat
+2103,Small Business,Delhi
+2104,Small Business,Karnataka
+2105,Small Business,Gujarat
+2106,Consumer,Maharashtra
+2107,Small Business,Delhi
+2108,Consumer,Karnataka
+2109,Consumer,Maharashtra
+2110,Corporate,Delhi
+2111,Small Business,Gujarat
+2112,Corporate,Maharashtra
+2113,Consumer,Delhi
+2114,Consumer,Gujarat
+2115,Consumer,Tamil Nadu
+2116,Small Business,Maharashtra
+2117,Consumer,Karnataka
+2118,Small Business,Karnataka
+2119,Corporate,Maharashtra
+2120,Small Business,Maharashtra
+2121,Corporate,Gujarat
+2122,Corporate,Karnataka
+2123,Corporate,Maharashtra
+2124,Small Business,Maharashtra
+2125,Consumer,Delhi
+2126,Corporate,Delhi
+2127,Corporate,Karnataka
+2128,Consumer,Maharashtra
+2129,Consumer,Gujarat
+2130,Consumer,Tamil Nadu
+2131,Small Business,Karnataka
+2132,Consumer,Maharashtra
+2133,Small Business,Karnataka
+2134,Corporate,Tamil Nadu
+2135,Small Business,Karnataka
+2136,Small Business,Delhi
+2137,Consumer,Maharashtra
+2138,Small Business,Maharashtra
+2139,Consumer,Gujarat
+2140,Consumer,Karnataka
+2141,Small Business,Maharashtra
+2142,Consumer,Gujarat
+2143,Corporate,Tamil Nadu
+2144,Corporate,Tamil Nadu
+2145,Corporate,Karnataka
+2146,Consumer,Tamil Nadu
+2147,Consumer,Maharashtra
+2148,Corporate,Tamil Nadu
+2149,Small Business,Karnataka
+2150,Consumer,Gujarat
+2151,Small Business,Tamil Nadu
+2152,Consumer,Maharashtra
+2153,Small Business,Delhi
+2154,Consumer,Delhi
+2155,Small Business,Delhi
+2156,Small Business,Delhi
+2157,Small Business,Delhi
+2158,Small Business,Karnataka
+2159,Corporate,Delhi
+2160,Corporate,Maharashtra
+2161,Consumer,Maharashtra
+2162,Small Business,Tamil Nadu
+2163,Corporate,Delhi
+2164,Small Business,Delhi
+2165,Consumer,Tamil Nadu
+2166,Corporate,Maharashtra
+2167,Consumer,Gujarat
+2168,Consumer,Gujarat
+2169,Small Business,Gujarat
+2170,Corporate,Delhi
+2171,Small Business,Karnataka
+2172,Consumer,Delhi
+2173,Small Business,Tamil Nadu
+2174,Corporate,Delhi
+2175,Corporate,Maharashtra
+2176,Corporate,Karnataka
+2177,Consumer,Maharashtra
+2178,Consumer,Gujarat
+2179,Consumer,Gujarat
+2180,Corporate,Tamil Nadu
+2181,Corporate,Karnataka
+2182,Small Business,Gujarat
+2183,Consumer,Delhi
+2184,Corporate,Karnataka
+2185,Consumer,Karnataka
+2186,Corporate,Delhi
+2187,Consumer,Delhi
+2188,Consumer,Maharashtra
+2189,Consumer,Maharashtra
+2190,Corporate,Delhi
+2191,Consumer,Delhi
+2192,Corporate,Maharashtra
+2193,Consumer,Tamil Nadu
+2194,Consumer,Tamil Nadu
+2195,Small Business,Tamil Nadu
+2196,Corporate,Tamil Nadu
+2197,Small Business,Karnataka
+2198,Corporate,Karnataka
+2199,Consumer,Maharashtra
+2200,Consumer,Gujarat
+2201,Consumer,Maharashtra
+2202,Corporate,Gujarat
+2203,Consumer,Gujarat
+2204,Corporate,Delhi
+2205,Consumer,Gujarat
+2206,Consumer,Tamil Nadu
+2207,Small Business,Delhi
+2208,Corporate,Tamil Nadu
+2209,Corporate,Gujarat
+2210,Small Business,Delhi
+2211,Corporate,Karnataka
+2212,Corporate,Maharashtra
+2213,Consumer,Tamil Nadu
+2214,Small Business,Delhi
+2215,Consumer,Gujarat
+2216,Small Business,Gujarat
+2217,Corporate,Karnataka
+2218,Consumer,Maharashtra
+2219,Consumer,Karnataka
+2220,Small Business,Tamil Nadu
+2221,Small Business,Maharashtra
+2222,Consumer,Delhi
+2223,Small Business,Gujarat
+2224,Consumer,Tamil Nadu
+2225,Small Business,Delhi
+2226,Consumer,Karnataka
+2227,Corporate,Karnataka
+2228,Small Business,Maharashtra
+2229,Corporate,Tamil Nadu
+2230,Corporate,Delhi
+2231,Corporate,Delhi
+2232,Small Business,Maharashtra
+2233,Small Business,Gujarat
+2234,Corporate,Tamil Nadu
+2235,Corporate,Tamil Nadu
+2236,Small Business,Tamil Nadu
+2237,Consumer,Tamil Nadu
+2238,Consumer,Maharashtra
+2239,Corporate,Tamil Nadu
+2240,Consumer,Karnataka
+2241,Consumer,Karnataka
+2242,Corporate,Maharashtra
+2243,Small Business,Tamil Nadu
+2244,Consumer,Tamil Nadu
+2245,Small Business,Maharashtra
+2246,Small Business,Maharashtra
+2247,Corporate,Maharashtra
+2248,Consumer,Gujarat
+2249,Consumer,Tamil Nadu
+2250,Small Business,Karnataka
+2251,Consumer,Gujarat
+2252,Consumer,Maharashtra
+2253,Small Business,Gujarat
+2254,Consumer,Gujarat
+2255,Corporate,Gujarat
+2256,Small Business,Delhi
+2257,Small Business,Tamil Nadu
+2258,Consumer,Karnataka
+2259,Consumer,Gujarat
+2260,Small Business,Tamil Nadu
+2261,Consumer,Maharashtra
+2262,Small Business,Tamil Nadu
+2263,Consumer,Delhi
+2264,Corporate,Delhi
+2265,Consumer,Karnataka
+2266,Small Business,Tamil Nadu
+2267,Small Business,Karnataka
+2268,Corporate,Gujarat
+2269,Consumer,Delhi
+2270,Corporate,Gujarat
+2271,Consumer,Tamil Nadu
+2272,Corporate,Tamil Nadu
+2273,Corporate,Maharashtra
+2274,Corporate,Karnataka
+2275,Corporate,Delhi
+2276,Consumer,Tamil Nadu
+2277,Consumer,Karnataka
+2278,Consumer,Maharashtra
+2279,Corporate,Gujarat
+2280,Consumer,Maharashtra
+2281,Consumer,Gujarat
+2282,Corporate,Gujarat
+2283,Small Business,Karnataka
+2284,Consumer,Gujarat
+2285,Corporate,Karnataka
+2286,Corporate,Delhi
+2287,Small Business,Karnataka
+2288,Consumer,Tamil Nadu
+2289,Corporate,Gujarat
+2290,Corporate,Delhi
+2291,Consumer,Maharashtra
+2292,Small Business,Maharashtra
+2293,Small Business,Tamil Nadu
+2294,Corporate,Maharashtra
+2295,Small Business,Gujarat
+2296,Consumer,Maharashtra
+2297,Consumer,Tamil Nadu
+2298,Corporate,Delhi
+2299,Consumer,Tamil Nadu
+2300,Consumer,Tamil Nadu
